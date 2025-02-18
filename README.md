@@ -11,14 +11,6 @@
 
 
 
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -27,18 +19,18 @@
     <img src="art/banner.png" alt="Logo" width="300" height="200">
   </a>
 
-<h3 align="center">P-Slice Engine</h3>
+<h3 align="center">Friday Night Funkin' Funkaverse!</h3>
 
   <p align="center">
-    Crossover between Psych Engine and newer versions of FNF (also known as V-Slice)
+    Crossover between so many OCs from new to old. It starts with one prospective into another story!
     <br />
     <a href="https://github.com/Psych-Slice/P-Slice/wiki"><strong>Explore the Wiki »</strong></a>
     <br />
     <br />
     ·
-    <a href="https://github.com/Psych-Slice/P-Slice/issues">Report Bug or Request Feature</a>
+    <a href="https://github.com/WayloFunk/FNF-Funkaverse/issues">Report Bug or Request Feature</a>
     ·
-    <a href="https://github.com/Psych-Slice/P-Slice/pulls">Create Pull Request</a>
+    <a href="https://github.com/WayloFunk/FNF-Funkaverse/pulls">Create Pull Request</a>
   </p>
 </div>
 
