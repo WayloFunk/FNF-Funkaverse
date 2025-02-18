@@ -23,7 +23,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/FNF-Funkaverse">
+  <a   href="https://github.com/WayloFunk/FNF-Funkaverse">
     <img src="art/banner.png" alt="Logo" width="300" height="200">
   </a>
 
