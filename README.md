@@ -41,9 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-P-Slice engine is a crossover between Psych Engine and the newest version of Friday Night Funkin.
-
-It's meant to bring new visuals and features from newer versions of FNF and make changes to the existing ones to make them feel closer to the ones in the V-Slice.
+A mod that brings a bunch of OCs into a multiverse mashup mod
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
